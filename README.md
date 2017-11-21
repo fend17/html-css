@@ -28,6 +28,8 @@ v.47
 * CSS-regler
 * CSS-deklaration
     * key/value
+* CSS Specificitet
+* ID/Klass/Tagg
 
 ##### Länkar
 
@@ -37,11 +39,11 @@ v.47
     - Referens till alla properties som går att använda i CSS.
 * [CSS Cascade | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
     - Vad är _cascade_ i CSS
+* [CSS Specificity: Things you should know | Smashing magazine](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+* [CSS Specificity | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
 ### Pass 3 - 24/11
 
-* CSS Specificitet
-* ID/Klass/Tagg
 * `display`
 * Boxmodellen   
     * Box, margin, padding
