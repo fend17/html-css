@@ -1,0 +1,65 @@
+body{
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+img{
+  max-height: 200px;
+  max-width: auto;
+  border-radius: 10px;
+}
+
+h1::after {
+  content: " ~";
+}
+
+h1::before {
+  content: "~ ";
+}
+
+section p:first-of-type:first-letter{
+  padding: 1rem; 
+  font-family: serif;
+    font-size: 3rem;
+    background-color: hsla(10, 40%, 40%, 1);
+    color: white;
+}
+
+section em:nth-of-type(2){
+  text-transform: uppercase;
+}
+
+ul > li {
+  border: 3px solid red;
+}
+
+li:nth-child(2){
+  color: lightsalmon;
+}
+
+li:first-of-type{
+  border: 3px dotted teal;
+}
+
+li:last-child{
+  color: teal;
+}
+
+span:nth-last-of-type(1){
+  color: red;
+}
+
+img:hover {
+  box-shadow: 0 0 12px rgba(0,0,0, .5);
+}
+
+img:active{
+  box-shadow: none;
+}
+
+a:not([href=""]){
+  border: 1px solid red;
+}
+
+[href]{
+  color: green;
+}
