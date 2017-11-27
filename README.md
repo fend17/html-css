@@ -22,8 +22,7 @@ v.47
 
 ### Pass 2 - 23/11
 
-*Intro CSS - Cascading Style Sheet
-    * Describe the presentation of a document written in HTML
+* Intro CSS - Cascading Style Sheet
 * CSS3 kontra äldre CSS
 * CSS-regler
 * CSS-deklaration

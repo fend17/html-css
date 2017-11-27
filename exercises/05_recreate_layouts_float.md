@@ -15,3 +15,5 @@ Försök att så nära som möjligt återskapa dessa layouts med display samt fl
 ![Grid](https://i.imgur.com/LHe8Luz.png)
 
 Återskapa även detta beteende i din Grid
+
+![Grid flex](https://i.imgur.com/jwRRnXz.gif)
