@@ -22,14 +22,19 @@ v.47
 
 ### Pass 2 - 23/11
 
-* Intro `CSS` - Cascading Style Sheet
-    * _Describe the presentation of a document written in HTML_   
-* `CSS3` kontra äldre CSS 
+*Intro CSS - Cascading Style Sheet
+    * Describe the presentation of a document written in HTML
+* CSS3 kontra äldre CSS
 * CSS-regler
 * CSS-deklaration
-    * key/value
+* key/value
 * CSS Specificitet
 * ID/Klass/Tagg
+* display
+* Boxmodellen
+* Box, margin, padding
+* Måttenheter
+* float
 
 ##### Länkar
 
@@ -41,26 +46,18 @@ v.47
     - Vad är _cascade_ i CSS
 * [CSS Specificity: Things you should know | Smashing magazine](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
 * [CSS Specificity | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-
-### Pass 3 - 24/11
-
-* `display`
-* Boxmodellen   
-    * Box, margin, padding
-* Måttenheter 
-
-##### Länkar
-
 * [CSS Units](https://www.w3.org/Style/Examples/007/units.en.html)
 * [Box Model | www.w3schools.com](https://www.w3schools.com/css/css_boxmodel.asp)
 * [Box Model | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+* [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+    - Interaktiv tutorial som visar de olika positioneringsteknikerna
+* [A List Apart | CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+    - Varning! Mycket text men nyttig!
+* [CSS-Tricks | Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+    - Hur man positionerar element på varandra.
 
 
----
-
-v.48
-
-### Pass 4 - 27/11
+### Pass 3 - 24/11
 
 * Layouttekniker:
     * absolute / relative / fixed
@@ -69,12 +66,6 @@ v.48
 
 ##### Länkar
 
-* [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-    - Interaktiv tutorial som visar de olika positioneringsteknikerna
-* [A List Apart | CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
-    - Varning! Mycket text men nyttig!
-* [CSS-Tricks | Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-    - Hur man positionerar element på varandra.
 * [Flexbox Froggy](http://flexboxfroggy.com/)
     - Lär dig flexbox genom ett spel
 * [Flexboxdefense](http://www.flexboxdefense.com/)
@@ -83,7 +74,12 @@ v.48
 * [All about floats | CSS-Tricks](https://css-tricks.com/all-about-floats/)
 * [`float` | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
-### Pass 5 - 29/11
+
+---
+
+v.48
+
+### Pass 4 - 27/11
 
 * Djupdykning i selektorer
     * Pseudo-klasser
@@ -98,6 +94,19 @@ v.48
 * [**CSS Diner**](https://flukeout.github.io/)
     - Spel för att lära sig selektorer i CSS 
 * [An Ultimate Guide To CSS Pseudo Classes and Pseudo Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+* [Pseudo-class tester](http://lea.verou.me/demos/nth.html)
+
+
+### Pass 5 - 29/11
+
+* Formulär
+* Tabeller
+
+* GIT
+
+##### Länkar
+
+
 
 ---
 
