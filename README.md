@@ -100,10 +100,20 @@ v.48
 
 * Formulär
 * Tabeller
-
 * GIT
 
 ##### Länkar
+
+* [HTML5doctor.com - Form input types](http://html5doctor.com/html5-forms-input-types/)
+* [html5patterns.com](http://html5pattern.com/)
+* [Pure CSS checkboxes and radio buttons](https://medium.com/claritydesignsystem/pure-css-accessible-checkboxes-and-radios-buttons-54063e759bb3)
+* [Webaim - Invisible content](https://webaim.org/techniques/css/invisiblecontent/)
+* [MDN - Styling HTML forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
+* [Medium - Design better forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+* [NNGroup - Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
+* [Webaim - Introduction to Web Accessibility
+](https://webaim.org/intro/)
+* [MDN - HTML Form Validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation)
 
 
 
