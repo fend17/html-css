@@ -1,5 +1,8 @@
 # HTML & CSS
 
+**Samtliga kodeexempel ligger under denna URL:**
+* https://jesperorb.github.io/html-demo/
+
 ## Schema
 
 v.47
@@ -72,7 +75,7 @@ v.47
 * [A Guide To Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [All about floats | CSS-Tricks](https://css-tricks.com/all-about-floats/)
 * [`float` | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
-
+* [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
 ---
 
@@ -142,6 +145,11 @@ v.50
 * [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [A List Apart | Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
 * [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
+* [Browsershots](http://browsershots.org/)
+    * Hemsida för att generera screenshots för olika browsers
+* [shouldiprefix.com](http://shouldiprefix.com/)
+* [@supports | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/%40supports)
+* [http://www.liquidapsive.com/](http://www.liquidapsive.com/)
 
 
 ----
