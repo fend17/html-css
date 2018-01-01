@@ -179,7 +179,7 @@ v.51
 
 ### Pass 10 - 20/12
 
-* CSS-Ramverk
+* Eget arbete med inlämningar
 
 ---
 
@@ -200,14 +200,14 @@ v.1
 
 ### Pass 12 - 5/1
 
-* Webbläsarkompabilitet
-* Prefixing
-* Felsökning
+* CSS-Ramverk
+
 
 ##### Länkar
 
-* [caniuse.com](https://caniuse.com/)
-* [Statcounter](http://gs.statcounter.com/)
+* [https://getbootstrap.com/](https://getbootstrap.com/)
+* [http://www.cssreflex.com/css-frameworks/](http://www.cssreflex.com/css-frameworks/)
+* [awesome.re ~ Frameworks](https://github.com/sotayamashita/awesome-css#frameworks-art)
 
 ---
 v.2
